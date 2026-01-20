@@ -26,4 +26,3 @@ The game has been successfully published on the **Microsoft Store**, providing m
 - Understanding of Unity game loop and event-driven programming.
 - Hands-on experience with scene management and UI systems.
 - Integration of audio for immersive gameplay.
-- Exposure to end-to-end game development workflow: development, testing, and deployment.
